@@ -1,4 +1,4 @@
-/* styles.css */
+
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 0;
@@ -68,23 +68,23 @@ nav a:hover {
   color: #0056b3;
 }
 
-/* AllPlayers */
+
 input {
   padding: 12px;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
 
-/* SinglePlayer */
+
 img {
   max-width: 100%;
   height: auto;
-  max-height: 300px; /* Set your desired max height */
+  max-height: 300px; 
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-/* AddPlayer */
+
 form {
   max-width: 400px;
   margin: auto;
